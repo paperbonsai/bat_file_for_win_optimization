@@ -1,4 +1,4 @@
-# Simple .bat file for better optimization of your PC
+# Simple .bat file for optimization of your Windows PC
 This code optimizes a Windows computer by removing unnecessary files and services, adjusting power settings, and disabling visual effects, among other things, to help improve performance and speed up the computer.
 ## Windows Optimization Batch File
 
